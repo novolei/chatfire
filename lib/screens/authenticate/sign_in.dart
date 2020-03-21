@@ -13,6 +13,7 @@ class _SignInState extends State<SignIn> {
   final AuthSerice _auth = AuthSerice();
   get screenSize => MediaQuery.of(context).size;
 //sign in module
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
