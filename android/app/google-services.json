@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "220149760783",
+    "firebase_url": "https://chatfire-de41e.firebaseio.com",
+    "project_id": "chatfire-de41e",
+    "storage_bucket": "chatfire-de41e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220149760783:android:f346cb4caffa9e2960b47a",
+        "android_client_info": {
+          "package_name": "com.example.mychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220149760783-qetsa26r12kn0qg6hu2fjdrvg3bnlbbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUVsCGHOlulBVlXRFIR4GdYRNNPBdxBAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220149760783-qetsa26r12kn0qg6hu2fjdrvg3bnlbbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
